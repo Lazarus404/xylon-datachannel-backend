@@ -1,0 +1,1 @@
+{application,ex_sctp,[{modules,['Elixir.ExSCTP']},{compile_env,[{ex_sctp,['Elixir.ExSCTP'],error}]},{optional_applications,[]},{applications,[kernel,stdlib,elixir,logger]},{description,"Elixir wrapper for sctp_proto library"},{registered,[]},{vsn,"0.1.3"}]}.

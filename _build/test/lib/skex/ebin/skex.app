@@ -1,0 +1,1 @@
+{application,skex,[{modules,['Elixir.Skex','Elixir.Skex.Hex']},{optional_applications,[]},{applications,[kernel,stdlib,elixir,logger]},{description,"NIF wrapper around Skein hashing functions."},{registered,[]},{vsn,"0.1.2"}]}.
